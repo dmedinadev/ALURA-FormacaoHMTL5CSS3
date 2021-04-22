@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+body{
+    background-color: #F2F2F2;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal {
+    text-align: center;
+    background-color: #cccc;
+    padding: 30px;
+}
+
+#missao {
+    font-size: 1.5em;
+}
+
+em strong{
+    color: #BB2020;
+}
+
+.itens {
+    font-size: 1em;
+    font-style: italic;
+}
+
+.beneficios {
+    text-align: justify;
+    background-color: #F2F2F2;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenbeneficios {
+    width: 50%;
+}
